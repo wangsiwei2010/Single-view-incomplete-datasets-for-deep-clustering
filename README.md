@@ -1,7 +1,7 @@
 # Single-view-incomplete-datasets-for-deep-clustering
 This repository provides several commonly-used deep clustering dataesets with incomplete features
 
-## Information for Datasets
+# Information for Datasets
 
 |    Dataset    | Samples | Dimensions |  
 |:-------------:|:-------:|:----------:|
@@ -12,3 +12,10 @@ This repository provides several commonly-used deep clustering dataesets with in
 |    Cifar10    |  60000  |    3072    |
 
 [Baidu address](https://pan.baidu.com/s/1SZ5dU0CXFgp8hhcM_YJbXA) （code）1234
+
+
+Any problems, please contanct <wangsiwei13@nudt.edu.cn>.
+
+# Contributors 
+
+[Yi Zhang]() and [Mingjie Luo]()
