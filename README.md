@@ -10,3 +10,5 @@ This repository provides several commonly-used deep clustering dataesets with in
 |      USPS     |   9298  |     256    |
 |    Reuters    |  10000  |    2000    |
 |    Cifar10    |  60000  |    3072    |
+
+[address](https://pan.baidu.com/s/1SZ5dU0CXFgp8hhcM_YJbXA) （code）1234
